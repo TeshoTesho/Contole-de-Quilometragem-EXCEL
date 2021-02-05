@@ -1,4 +1,4 @@
-# Contole-de-Quilometragem-EXCEL
+# Contole de Quilometragem EXCEL
 
 Sistema de estoque desenvolvido em Excel 2007. 
 
